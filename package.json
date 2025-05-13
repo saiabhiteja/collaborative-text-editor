@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@babel/preset-typescript": "^7.26.0",
+    "@rails/actioncable": "^8.0.100",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/rails__actioncable": "^6.1.11"
+  }
+}
